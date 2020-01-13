@@ -1,11 +1,11 @@
 {
 "companyName": "DefComp Games",
 "productName": "Ball Fondler",
-"productVersion": "0.2",
+"productVersion": "0.3",
 "dataUrl": "ballfondler.github.io.data.unityweb",
 "wasmCodeUrl": "ballfondler.github.io.wasm.code.unityweb",
 "wasmFrameworkUrl": "ballfondler.github.io.wasm.framework.unityweb",
-"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"graphicsAPI": ["WebGL 2.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
 "backgroundColor": "#231F20",
